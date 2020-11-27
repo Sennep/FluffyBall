@@ -15,5 +15,5 @@
 
 ### Start experiment
 
-1. `nom install` to install modules
-3. `canvas-sketch fluffy.js --output=temp/ --hot --open` to run
+1. `npm install` to install modules
+3. `canvas-sketch fluffy.js --hot --open` to run
