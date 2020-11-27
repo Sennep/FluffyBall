@@ -1,0 +1,30 @@
+{
+  "name": "fluffy-ball",
+  "version": "1.0.0",
+  "description": "Three.js shader experiment that is nice and fluffy",
+  "main": "fluffy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "dat.gui": "^0.7.7",
+    "glsl-noise": "0.0.0",
+    "nice-color-palettes": "^3.0.0",
+    "three": "^0.122.0"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "THREE"
+    ]
+  },
+  "author": {
+    "name": "Christoph Lorenzi",
+    "email": "christoph@sennep.com",
+    "url": "https://sennep.com"
+  },
+  "license": "MIT"
+}
